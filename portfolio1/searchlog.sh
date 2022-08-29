@@ -1,7 +1,5 @@
 #!/bin/bash
-#Edmund Blakeney
-#Student Number: 10467945
-#CSP2101 - Scripting Languages
+#Scripting Languages
 #Portfolio 1
 #Task 4
 
